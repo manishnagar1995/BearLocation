@@ -19,5 +19,5 @@ export default class bearList  extends LightningElement {
             this.error = error;
             this.bears = undefined;
         }
-    }//*/
+    }//*/jokk
 }
